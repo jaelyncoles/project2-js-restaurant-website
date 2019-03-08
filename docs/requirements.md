@@ -75,6 +75,16 @@ your-repo/
 
 ### Requirements
 
+#### Over the Weekend
+1. Create Wireframe and any extra documentation
+2. Create Personas and Stories w/ points
+3. Pseudocode the layout of your html and js (what needs to be done)
+4. pseudocode the functions you will need in js (how things need to be done) (these should be your stories)
+5. fork, clone, create dev branch, create file structure, find pictures, understand api, 
+
+
+#### On Monday
+
 1. Website must be responsive (follow proper bootstrap best practices, especially for importing your own css and js [no need to reinvent the wheel] )
 2. Use the tools and technologies covered in class to complete your website. To see what we have covered, check the [Class Resources Repo](https://github.com/bootcamp-s19/Resources#resources).
 3. Add info to your projects README.md following the [README.md Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
