@@ -18,6 +18,7 @@ The website needs to include at least:
   - must include at least four sections for unique meal type (appetizers, main course, sides, breakfast before 5am, etc)
     - each meal type must include at least eight entries per type of meal (bagel and lox, plate of pancakes, omelette, etc)
     - since the api generates random foods, you do not need to sort the foods, as long as you are display them in their unique sections (imagine this restaurant exists in a parallel universe where people eat whatever, whenever)
+- Each menu item must be an [organism](https://patternlab.io) (for example, using a bootstrap card with a picture of the meal, as well as the name, and the price, etc)
 
 ### Objectives
 
