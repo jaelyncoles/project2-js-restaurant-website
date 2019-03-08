@@ -15,10 +15,11 @@ The website needs to include at least:
 	* Wednesday through Saturday, dinner only: 5pm - 10pm
 	* Sunday, brunch and dinner: 11am - 8pm
 - The restaurant's menu 
-  - must include at least four sections for unique meal type (appetizers, main course, sides, breakfast before 5am, etc)
-    - each meal type must include at least eight entries per type of meal (bagel and lox, plate of pancakes, omelette, etc)
+  - Must include at *least four* sections for unique meal type (appetizers, main course, sides, breakfast before 5am, etc)
+    - each meal type must include *at least* eight (8) entries per type of meal (bagel and lox, plate of pancakes, omelette, etc)
     - since the api generates random foods, you do not need to sort the foods, as long as you are display them in their unique sections (imagine this restaurant exists in a parallel universe where people eat whatever, whenever)
-  - Each menu item must be an [organism](https://patternlab.io) (for example, using a bootstrap card with a picture of the meal, as well as the name, and the price, etc)
+  - Each Menu Section must be viewable separately in an [organism](https://patternlab.io) (for example, a bootstrap [accordion](https://getbootstrap.com/docs/4.0/components/collapse/#accordion-example) or [nav](https://getbootstrap.com/docs/4.0/components/navs/#javascript-behavior))
+  - Each menu item must be an [molecule](https://patternlab.io) (for example, using a bootstrap card with a picture of the meal, as well as the name, and the price, etc)
 
 ### Objectives
 
