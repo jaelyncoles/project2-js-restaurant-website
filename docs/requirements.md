@@ -91,6 +91,8 @@ your-repo/
 
 ### Remember to commit often and push to dev branches!
 
+Commit each story to your dev branch as it is completed.
+
 Your repo should be public so that others can see your code and comment on it.
 
 ### Remember to deploy to Heroku!
